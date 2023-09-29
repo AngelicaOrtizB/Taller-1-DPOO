@@ -4,7 +4,7 @@ package uniandes.dpoo.taller0.modelo;
  * Esta clase relaciona un atleta con un evento para indicar que el atleta
  * participó en ese evento y obtuvo un cierto resultado. Esta clase tiene
  * también la información del resultado que obtuvo el atleta y de la edad que
- * tenía cuando se realizó la competición.
+ * tenía cuando se realizó la competición.     
  */
 public class Participacion
 {
